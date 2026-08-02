@@ -49,8 +49,3 @@ Conéctate mediante una terminal serial (115200 baudios, 8N1) y envía los sigui
 ## 📹 Demostración en Video
 Puedes ver el video explicativo y la demostración en vivo del funcionamiento del osciloscopio en el siguiente enlace:  
 👉 **[Ver Video en YouTube]()**
-
-
-
-## 📄 Licencia
-Este proyecto fue desarrollado exclusivamente con fines académicos para la materia de Sistemas Embebidos en ESPOL.
