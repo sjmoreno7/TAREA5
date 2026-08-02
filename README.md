@@ -4,7 +4,6 @@
 **Institución:** Escuela Superior Politécnica del Litoral (ESPOL) - FIEC  
 **Integrantes / Autor:** [Tu Nombre y Apellido]  
 
----
 
 ## 📌 Descripción del Proyecto
 Este repositorio contiene la solución a la Tarea #5, enfocada en el desarrollo de aplicaciones para el microcontrolador **ESP32** utilizando el framework **ESP-IDF** bajo **PlatformIO**.
@@ -14,14 +13,12 @@ El proyecto abarca tres etapas de desarrollo:
 2. **Ejercicio 2:** Estructuración del sistema serial utilizando arquitectura multitarea con **FreeRTOS**.
 3. **Ejercicio 3 (Integración):** Comunicación entre tareas mediante **Colas (Queues)** de FreeRTOS, control de periféricos (UART2 y LED) y representación gráfica en tiempo real de los diagramas de tiempo en una pantalla **OLED SSD1306 (I2C)** como un osciloscopio lógico.
 
----
 
 ## 📁 Estructura del Código Fuente
 - `src/ejercicio1.c`: Código fuente del intérprete de comandos UART2 en formato secuencial.
 - `src/ejercicio2.c`: Implementación multitarea simple en FreeRTOS.
 - `src/main.c`: Sistema completo integrado (UART2 + FreeRTOS Queues + I2C OLED).
 
----
 
 ## 🛠️ Requisitos e Instalación
 - **Entorno de Desarrollo:** Visual Studio Code con la extensión PlatformIO.
@@ -40,8 +37,6 @@ El proyecto abarca tres etapas de desarrollo:
 | **UART RX** | GPIO 3 | UART2 Recepción |
 | **LED** | GPIO 19 | Salida Digital |
 
----
-
 ## 🚀 Comandos Seriales Disponibles
 Conéctate mediante una terminal serial (115200 baudios, 8N1) y envía los siguientes comandos:
 - `status`: Muestra el estado actual del sistema.
@@ -50,13 +45,12 @@ Conéctate mediante una terminal serial (115200 baudios, 8N1) y envía los sigui
 - `info`: Retorna los baudios configurados y el contador de comandos.
 - `reset`: Reinicia los contadores internos del sistema.
 
----
 
 ## 📹 Demostración en Video
 Puedes ver el video explicativo y la demostración en vivo del funcionamiento del osciloscopio en el siguiente enlace:  
-👉 **[Ver Video en YouTube](https://www.youtube.com/watch?v=TU_LINK_AQUI)**
+👉 **[Ver Video en YouTube]()**
 
----
+
 
 ## 📄 Licencia
 Este proyecto fue desarrollado exclusivamente con fines académicos para la materia de Sistemas Embebidos en ESPOL.
