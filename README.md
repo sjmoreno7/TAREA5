@@ -1,8 +1,5 @@
 # Tarea 5: ESP32 - UART, I2C y FreeRTOS
-
-**Asignatura:** Sistemas Embebidos  
-**Institución:** Escuela Superior Politécnica del Litoral (ESPOL) - FIEC  
-**Integrantes / Autor:** [Tu Nombre y Apellido]  
+**Autor:** [Stefano Moreno]  
 
 
 ## 📌 Descripción del Proyecto
@@ -48,4 +45,4 @@ Conéctate mediante una terminal serial (115200 baudios, 8N1) y envía los sigui
 
 ## 📹 Demostración en Video
 Puedes ver el video explicativo y la demostración en vivo del funcionamiento del osciloscopio en el siguiente enlace:  
-👉 **[Ver Video en YouTube]()**
+👉 **[Ver Video en YouTube](https://youtu.be/ceQf1LIEL78)**
